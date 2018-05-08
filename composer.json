@@ -1,5 +1,5 @@
 {
-    "name": "evenement/evenement",
+    "name": "alicherri/evenement",
     "description": "Événement is a very simple event dispatching library for PHP",
     "keywords": ["event-dispatcher", "event-emitter"],
     "license": "MIT",
@@ -7,6 +7,9 @@
         {
             "name": "Igor Wiedler",
             "email": "igor@wiedler.ch"
+        },
+        {
+            "name": "Ali Cherry"
         }
     ],
     "require": {
