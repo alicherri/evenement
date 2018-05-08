@@ -1,6 +1,8 @@
 CHANGELOG
 =========
 
+* v3.0.2 (2018-05-8)
+  * Added event forwarding
 
 * v3.0.1 (2017-07-23)
 
